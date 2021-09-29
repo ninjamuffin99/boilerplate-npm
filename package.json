@@ -1,6 +1,7 @@
 {
 	"author": "Cameron Taylor",
 	"description": "This is a project for myself to learn Nodejs and API bullshit from freecodecamp!!",
+	"keywords": ["learning", "coding", "swag"],
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
